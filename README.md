@@ -1,8 +1,6 @@
 ### Hi there 👋 I am José Luis.
 
-I am an electronic engineer that ended up working as a software developer,  And I Love it! 
-
-I am currently the Technical lead at [Swapps](https://swapps.com/) and have been working there since 2015. I love learning constantly and Swapps has been the best site for that.
+I am an electronic engineer that ended up working as a software developer,  And I Love it!
 
 I like to work mainly on **python and Django**, but I have experience with other programming languages and frameworks such as:
 
